@@ -1,3 +1,7 @@
+<<<<<<< HEAD
  first commit
  second commit
  third commit 
+=======
+ santosh is a good boy
+>>>>>>> parent of d7fe6cf (first commit)
